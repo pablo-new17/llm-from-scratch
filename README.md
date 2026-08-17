@@ -1,3 +1,5 @@
+[Gary Explains-Train Your Own Tiny LLM on Your PC In Just A Few Hours](https://www.youtube.com/watch?v=T9egZA5ppQw)
+
 # Train Your Own LLM From Scratch
 
 A hands-on workshop where you write every piece of a GPT training pipeline yourself, understanding what each component does and why.
